@@ -6,7 +6,7 @@
 
 *斜体特效*
 **粗体特效**
-***粗斜体特效***
+***粗斜体特效**
 普通的文本中的`凸显特效`
 
 * 无序列表
@@ -24,5 +24,11 @@
 
 我们可以将所有的工程项目打包上传到[GITHUB](https://www.github.com "Github官方网站")进行托管
 
-[1]:https://www.github.com "Github官网"
-[2]:https://git-scm.com/downloads "git瞎子啊"
+
+我们可以将所有的工程项目打包上传到[GITHUB][1]进行托管
+
+[1]:https://www.github.com "Github官网" 
+
+* 文章中插入配图
+     * 本地图片插入
+        ![测试配图](E:/GitRep/test.png "图片标题")

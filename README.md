@@ -32,3 +32,40 @@
 * 文章中插入配图
      * 本地图片插入
         ![test.png](https://s2.loli.net/2022/05/07/ZpsnSUYtraHPXwx.png)
+
+###### 在文章中插入代码段
+
+```c
+#include<stdio.h>
+
+int main()
+{
+    printf("HelloWorld..\n");
+    return 0;
+}
+```
+
+```bash
+sudo apt-get install tree
+```
+
+```cpp
+#include<iostream>
+#include<stdlib.h>
+using namespace std;
+
+int main()
+{
+    cout<<"helloWorld"<<endl;
+    return 0;
+}
+```
+
+```python
+import os
+def self_main()
+    file_list = os.listdir(backup.dir)
+    return
+```
+
+

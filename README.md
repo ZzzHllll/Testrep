@@ -31,4 +31,4 @@
 
 * 文章中插入配图
      * 本地图片插入
-        ![测试配图](E:/GitRep/test.png "图片标题")
+        ![test.png](https://s2.loli.net/2022/05/07/ZpsnSUYtraHPXwx.png)
